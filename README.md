@@ -1,7 +1,7 @@
 # Creating a Student Intervention System
 ## Supervised Learning
 
-<p align = 'center'><img src = 'logo.jpg', height=412, width =380></p>
+<p align = 'center'><img src = 'logo.jpg', height=412, width =600></p>
 
 -----
 
