@@ -1,5 +1,5 @@
 # Creating a Student Intervention System
-## Supervised Learning
+## Supervised Learning, Classification
 
 <p align = 'center'><img src = 'logo.jpg', height=412, width =570></p>
 
